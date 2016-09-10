@@ -3,7 +3,7 @@ This is a little program to find the longest chain of numbers `0 > n >= 1000000`
 
 https://youtu.be/LYKn0yUTIU4
 
-Running the program will return:
+The program returns:
 
 ```
 THREEHUNDREDTWENTYTHREE (323), TWENTYTHREE (23), ELEVEN (11), SIX (6), THREE (3), FIVE (5), FOUR (4)
