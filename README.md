@@ -1,5 +1,5 @@
 # NumberChain
-This is a little program to find the smallest `x` with `0 > x >= 1000000`, where 
+This is a little program to find the smallest `x` with `0 < x <= 1000000`, where 
 `a(n+1) = NumberOfChars(EnglishWord(a(n)))` and `a(0) = x` resulting in the longest chain before hitting `a(n) = 4`.
 
 https://youtu.be/LYKn0yUTIU4
